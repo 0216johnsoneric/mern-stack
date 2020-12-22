@@ -492,7 +492,6 @@ For example, this:
   align-items: center;
 }
 ```
-
 becomes this:
 
 ```css
